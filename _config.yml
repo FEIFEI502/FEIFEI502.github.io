@@ -1,28 +1,28 @@
 # Site settings
 title: Fei-Fei Cheng Blog
-SEOTitle: 菲菲的博客 | FEIFEI Blog
+SEOTitle: FEIFEI Blog | 菲菲的博客
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: chengfeifei1018@outlook.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+url: "https://feifei502.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/FEIFEI502/FEIFEI502.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+#sidebar-about-description: "Goals determine what you going to be!"
+sidebar-avatar: /img/about-feifei.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+#zhihu_username:     qiubaiying
+#github_username:    qiubaiying
+#facebook_username:  baiying.qiu.7
+#jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
 
@@ -57,16 +57,16 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: feifeicheng
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: 8b3a7cdc39847877f8c6                            #生成的clientID
+  clientSecret: 352f3318a33b89e30677f66d21bd681a3ab5b262    #生成的clientSecret
+  repo: FEIFEI502.github.io    #仓库名称
+  owner: FEIFEI502    #github用户名
+  admin: FEIFEI502
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
