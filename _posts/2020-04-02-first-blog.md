@@ -30,8 +30,10 @@ tags:
 ***
 ## Basic grammar
 
-``code``
->>quote somthing
+`code`
+
+>quote somthing
+`>quote somthing`
 
 *Hello world*
 `*Hello world*`
@@ -41,10 +43,13 @@ tags:
 
 * 1st task
 * 2nd task
+`* 1st task
+ * 2nd task`
 
 1. one dream
 2. another dream
-
+`1. one dream
+ 2. another dream`
 ***
 
 [Blog constraction guideline](https://github.com/qiubaiying/qiubaiying.github.io/wiki/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B#Rename)
