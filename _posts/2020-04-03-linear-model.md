@@ -9,6 +9,7 @@
         });
     </script>
 </head>
+
 ---
 layout:     post
 title:      Linear model
