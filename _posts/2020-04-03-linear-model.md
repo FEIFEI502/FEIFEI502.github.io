@@ -27,9 +27,11 @@ Brief Introduction of linear model [Youtube:StatQuest](https://www.youtube.com/w
 [Youtube: Deriving the least square of the slope and intercept](https://www.youtube.com/watch?v=ewnc1cXJmGA)
 
 
->\\(\hat{Y}=\hat{\beta}_0+\hat{\beta}\_0{X}\\)
+>\\(\hat{Y}=\hat{\beta}_0+\hat{\beta}\_1{X}\\)
+>\\(minQ=\sum_{i=1}^{n}(y\_i-(\beta\_0+\beta\_1x\_i))^2\\)
 
->$$\hat{Y}=\hat{\beta}_0+\hat{\beta}\_0{X}$$
+>\\(\frac{\partial{Q}}{\partial{\beta\_0}}\\)
+> 
 
 
 
