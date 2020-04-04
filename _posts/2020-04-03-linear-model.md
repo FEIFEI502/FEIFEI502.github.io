@@ -26,8 +26,12 @@ Brief Introduction of linear model [Youtube:StatQuest](https://www.youtube.com/w
 ## 1. least square of residuals
 [Deriving the least square of the slope and intercept](https://www.youtube.com/watch?v=ewnc1cXJmGA)
 
+
 $$\hat{Y}=\hat{\beta}_0+\hat{\beta}_1X$$
+$$\hat{Y}=\hat{\beta}_0+\hat{\beta}{X}$$
+
 ## 2. \\(R^2\\)
+
 >![](https://tva1.sinaimg.cn/large/00831rSTly1gdgkdg4zpqj30v50ecdkl.jpg)
 >The left means sum of squared mean SS(mean); the right means sum of sqaured residuals, called fit SS(fit), which is variation not be explained by the regression line.
 
