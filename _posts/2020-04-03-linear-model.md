@@ -28,6 +28,7 @@ Brief Introduction of linear model [Youtube:StatQuest](https://www.youtube.com/w
 
 
 $$\hat{Y}=\hat{\beta}_0+\hat{\beta}_1X$$
+
 $$\hat{Y}=\hat{\beta}_0+\hat{\beta}{X}$$
 
 ## 2. \\(R^2\\)
