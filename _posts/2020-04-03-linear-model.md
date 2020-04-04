@@ -29,6 +29,9 @@ Brief Introduction of linear model [Youtube:StatQuest](https://www.youtube.com/w
 
 $$\hat{Y}=\hat{\beta}_0+\hat{\beta}\_0{X}$$
 
+\\(R^2\\)
+
+
 ## 2. \\(R^2\\)
 
 >![](https://tva1.sinaimg.cn/large/00831rSTly1gdgkdg4zpqj30v50ecdkl.jpg)
