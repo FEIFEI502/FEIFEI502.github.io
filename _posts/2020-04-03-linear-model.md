@@ -31,23 +31,23 @@ Brief Introduction of linear model [Youtube:StatQuest](https://www.youtube.com/w
 \\(\hat{Y}=\hat{\beta}_0+\hat{\beta}\_1{X}\\)
 
 \\(minQ=\sum\_{i=1}^{n}(y\_i-(\beta\_0+\beta\_1x\_i))^2\\)
-
+<br/>
 >\\(\frac{\partial{Q}}{\partial{\beta\_0}}=-2\sum\_{i=1}^n(y\_i-(\beta\_0+\beta\_1x\_i))=0 \\) 
 >
 >
 >\\(\bar{y}=\beta\_0+\beta\_1\bar{x}\\)
->
+><br/>
 >
 >\\(\frac{\partial{Q}}{\partial{\beta\_1}}=-2\sum\_{i=1}^{n}(y\_i-(\beta\_0+\beta\_1x\_i))x\_i=0\\)
->
+><br/>
 >Remember out next aim is to get \\(\beta_1\\)
->
+><br/>
 >\\(\because \beta\_0=\bar{y}-\beta\_1\bar{x}\\)
->
+><br/>
 >\\(\\therefore \sum\_{i=1}^{n}(y\_i-(\beta\_0+\beta\_ix\_i))x\_i=\sum\_{i=1}^{n}(y\_i-(\bar{y}-\beta\_1\bar{x}+\beta\_1x\_i))x\_i \\)
->
+><br/>
 >\\(=\sum\_{i=1}^{n}x\_i(y\_i-\bar{y})-\beta\_1\sum\_{i=1}^{n}x\_i(x\_i-\bar{x})=0 \\)
->
+><br/>
 >\\(\therefore\beta\_1=\frac{\sum\_{i=1}^{n}x\_i(y\_i-\bar{y})}{\sum\_{i=1}^{n}x\_i(x\_i-\bar{x})}=\frac{Cov(X,Y)}{Var(X)}
 \\) 
 
