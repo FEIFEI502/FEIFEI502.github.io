@@ -21,14 +21,20 @@ tags:
 # Linear regression 
 
 
-Resource [Youtube:StatQuest](https://www.youtube.com/watch?v=nk2CQITm_eo&list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR&index=17)
->![](https://tva1.sinaimg.cn/large/00831rSTly1gdgkdg4zpqj30v50ecdkl.jpg)
->The left means sum of square variation of mean SS(mean); the right means sum of sqaure variation of fit SS(fit), which is variation not be explained by the regression line.
-x
+Brief Introduction of linear model [Youtube:StatQuest](https://www.youtube.com/watch?v=nk2CQITm_eo&list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR&index=17)
 
-1. least square of residuals
-2. \\(R^2\\)
-3.   \\(F\\) distribution and  \\(p_{value}\\)
+## 1. least square of residuals
+[Deriving the least square of the slope and intercept](https://www.youtube.com/watch?v=ewnc1cXJmGA)
+
+$$\hat{Y}=\hat{\beta}_0+\hat{\beta}_1X$$
+## 2. \\(R^2\\)
+>![](https://tva1.sinaimg.cn/large/00831rSTly1gdgkdg4zpqj30v50ecdkl.jpg)
+>The left means sum of squared mean SS(mean); the right means sum of sqaured residuals, called fit SS(fit), which is variation not be explained by the regression line.
+
+>\\(R^2\\) is the percentage of variation explained by the relationship between two variables
+
+
+## 3.   \\(F\\) distribution and  \\(p_{value}\\)
 
 >![](https://tva1.sinaimg.cn/large/00831rSTly1gdglhj0dhcj30v50ec0x5.jpg)
 >
