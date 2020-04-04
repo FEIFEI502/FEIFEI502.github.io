@@ -24,12 +24,10 @@ tags:
 Brief Introduction of linear model [Youtube:StatQuest](https://www.youtube.com/watch?v=nk2CQITm_eo&list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR&index=17)
 
 ## 1. least square of residuals
-[Deriving the least square of the slope and intercept](https://www.youtube.com/watch?v=ewnc1cXJmGA)
+[Youtube: Deriving the least square of the slope and intercept](https://www.youtube.com/watch?v=ewnc1cXJmGA)
 
 
-$$\hat{Y}=\hat{\beta}_0+\hat{\beta}_1X$$
-
-$$\hat{Y}=\hat{\beta}_0+\hat{\beta}{X}$$
+$$\hat{Y}=\hat{\beta}_0+\hat{\beta}\_0{X}$$
 
 ## 2. \\(R^2\\)
 
