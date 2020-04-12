@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      English record
+title:      Financial record
 subtitle:   Life log
 date:       2020-04-03
 author:     Fei-Fei
@@ -9,16 +9,12 @@ catalog: true
 tags:
     - life
     - log
-    - English
 ---
-
-  2020-04-06 | Teacher Gwen  
->![](https://tva1.sinaimg.cn/large/00831rSTly1gdjoiahrf1j30qo0k0jun.jpg)
-Note: selves
-| 2020-04-08  | Teacher Gwen  
->![](https://tva1.sinaimg.cn/large/00831rSTly1gdlyb5tn47j30qo0k0dit.jpg)
-| 2020-04-13  | Teacher Gwen
->![](https://tva1.sinaimg.cn/large/007S8ZIlly1gdrsiibn53j30qo0k0dj7.jpg)
+|  Time | Item  | Price  |
+|---|---|---|
+|  2020-04-03 | Youtube premium fee  |  $8.99 |
+|  2020-04-05 |  Milk | $4.00   |
+|   |   |   |
 |   |   |   |
 |   |   |   |
 |   |   |   |

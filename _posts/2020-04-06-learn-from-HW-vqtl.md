@@ -28,5 +28,5 @@ I think the benefit is to decrease variables when a lot of process.
 # mutate
 library(dplyr) like above add new variables
 
->![](https://tva1.sinaimg.cn/large/00831rSTly1gdl3lm2ct8j312q0u0ttr.jpg)
+>![]zhttps://tva1.sinaimg.cn/large/00831rSTly1gdl3lm2ct8j312q0u0ttr.jpg)
 >![](https://tva1.sinaimg.cn/large/00831rSTly1gdl3nmfzw9j312q0u0ha4.jpg)

@@ -27,8 +27,11 @@ Basic Introduction of linear model [Youtube:StatQuest](https://www.youtube.com/w
 [Youtube: Deriving the least square of the slope and intercept](https://www.youtube.com/watch?v=ewnc1cXJmGA)
 
 
-
 \\(\hat{Y}=\hat{\beta}_0+\hat{\beta}\_1{X}+\varepsilon\\)
+
+\\(\varepsilon ~ N(0,\sigma^2)\\)
+
+###estimation of \\(\beta\_0\\) and \\(\beta_\_1\\)
 
 >\\(minQ=\sum\_{i=1}^{n}(y\_i-(\beta\_0+\beta\_1x\_i))^2\\)
 ><br/>
@@ -40,7 +43,7 @@ Basic Introduction of linear model [Youtube:StatQuest](https://www.youtube.com/w
 >
 >\\(\frac{\partial{Q}}{\partial{\beta\_1}}=-2\sum\_{i=1}^{n}(y\_i-(\beta\_0+\beta\_1x\_i))x\_i=0\\)
 ><br/>
->Remember out next aim is to get \\(\beta_1\\)
+>Remember our next aim is to get \\(\beta_1\\)
 ><br/>
 >\\(\because \beta\_0=\bar{y}-\beta\_1\bar{x}\\)
 ><br/>
@@ -51,6 +54,8 @@ Basic Introduction of linear model [Youtube:StatQuest](https://www.youtube.com/w
 >\\(\therefore\beta\_1=\frac{\sum\_{i=1}^{n}x\_i(y\_i-\bar{y})}{\sum\_{i=1}^{n}x\_i(x\_i-\bar{x})}=\frac{Cov(X,Y)}{Var(X)}
 \\) 
 
+###estimation of \\(\sigma^2\\)
+[Youtube:](Proof that the Sample Variance is an Unbiased Estimator of the Population Variance)
 
 ## 2. \\(R^2\\)
 
