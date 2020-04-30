@@ -71,4 +71,8 @@ The proof of why Pearson correlation coefficient = R-square in simple linear mod
 
 ## 3.   \\(F\\) distribution and  \\(p_{value}\\)
 
-
+## 4. Matrix form
+[Youtube](https://www.youtube.com/watch?v=fb1CNQT-3Pg)
+[PDF](https://web.stanford.edu/~mrosenfe/soc_meth_proj3/matrix_OLS_NYU_notes.pdf)
+![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gebqzchv5zj30j70fyjtg.jpg)
+![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gebra0zm3hj31400u0npd.jpg)
