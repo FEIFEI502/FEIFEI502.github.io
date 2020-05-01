@@ -31,7 +31,7 @@ Basic Introduction of linear model [Youtube:StatQuest](https://www.youtube.com/w
 
 \\(\varepsilon ~ N(0,\sigma^2)\\)
 
-###estimation of \\(\beta\_0\\) and \\(\beta_\_1\\)
+### estimation of \\(\beta\_0\\) and \\(\beta_\_1\\)
 
 >\\(minQ=\sum\_{i=1}^{n}(y\_i-(\beta\_0+\beta\_1x\_i))^2\\)
 ><br/>
