@@ -2,7 +2,7 @@
 layout:     post
 title:     	Power calculation
 subtitle:   GWAS
-date:       2020-04-15
+date:       2020-05-01
 author:     Fei-Fei
 header-img: img/post-bg-rwd.jpg
 catalog: true
