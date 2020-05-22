@@ -16,3 +16,15 @@ tags:
 # variance addition
 ![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gebsvt81x2j30a707e0t7.jpg)
 
+# sampling variance (standard error) & variance
+
+var(X)=E(X-mean(X))^2
+
+X'=sampling N from X
+
+SEM=var(X'-mean(X'))
+
+mean(X'-mean(X'))=0
+
+var(X'-mean(X'))=var(X')/N
+
