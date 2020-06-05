@@ -29,8 +29,6 @@ correlation, the postive one and the negative one (mutually exclusive events).
 # De Morgan's laws
 ![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gf23dm13urj30qq0cemz9.jpg)
 
-![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gf23f8cqy4j30w00i20yr.jpg)
-
 # Discrete Probablity Distribution
 
 ![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gf23slw6hjj30rq0hw79q.jpg)
@@ -46,7 +44,33 @@ P(success X=1)=p
 P(failure X=0)=1-p
 
 E(X)=p
-Var(X)=E(X^2)-E(X)^2 = p-p^2=p*(1-p)
+Var(X)=E(X^2)-E(X)^2 = p-p^2=p(1-p)
 
 ## Bonimial Distribution
 n independent Bernoulli distribution
+
+![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gf23f8cqy4j30w00i20yr.jpg)
+
+n=2
+E(X)=2p(1-p)+2P^2=2p
+Var(X)=2p(1-p)+4P^2-(2p)^2=2p(1-p)
+
+X~Bonimial(n,p)
+E(X)=np
+var(X)=np(1-p)
+
+## Hypergeometric Distribution
+
+sampling is done without replacement,e.g. drawn 4 red balls from 5 randomly drawn with replacement (all contains 6 red balls and 14 yellow balls)
+
+![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gf24sbl8jkj30pc0amn2z.jpg)
+N=20 the number of balls
+n=6 the number of drawn balls, of objects samples
+a=5 of successes in the population
+
+The binomial distribution can sometimes provide a reasonable approximation to the hypergeometrix distribution (sampling less than around 5% of the population). The reason is, drawning a small number from big population alternate a little frequency.
+
+## Geometric Distribution
+
+X is the number of getting the first success.
+
